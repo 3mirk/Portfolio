@@ -10,5 +10,9 @@ I have added here a selection of my data analysis projects.
 | git diff | Show file differences that haven't been staged 
 
 # Power BI
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+|`git status`   | git status     | git status    |
+| `git diff`     | git diff       | git diff      |
 
 # Python
