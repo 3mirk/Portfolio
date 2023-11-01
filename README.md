@@ -3,6 +3,11 @@
 Thank you for visitng my portfolio. 
 I have added here a selection of my data analysis projects.
 
+## Table of Contents
+- [SQL](#sql)
+- [Power BI](#power-bi)
+- [Python](#python)
+
 # SQL
 | Command | Description 
 | --- | --- 
