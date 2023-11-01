@@ -2,6 +2,7 @@
 
 Thank you for visitng my portfolio. 
 I have added here a selection of my data analysis projects.
+Click [here](https://github.com/3mirk) to visit my profile.
 
 ## Table of Contents
 - [SQL](#sql)
