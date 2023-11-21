@@ -28,6 +28,6 @@ Click [here](https://github.com/3mirk) to visit my profile. 👨‍🔧
 Please visit my [Tableau profile](https://public.tableau.com/app/profile/ahmet.emir.kara/vizzes) to visit a sample of my Tablueau vizzes.
 | Vizzes | Description | Link |
 | :---         |     :---:      |          ---: |
-|`Process Control`   | Designed for manufacturing plants to track daily process control performance and discover improvement opportunities.     | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/ProcessControlV/DailyOverview)|
+|`Process Control`   | Allows tracking of daily process control adherence, KPI's, and improvement opportunity discoveris.     | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/ProcessControlV/DailyOverview)|
 | `Inspection Device`     | Provides OEE and Quality performance for plant optical and inspection device performance.      | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/InspectionDeviceDashboard/Kickouts)      |
 
