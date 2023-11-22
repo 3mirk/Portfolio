@@ -35,6 +35,6 @@ Please visit my [Kaggle profile](https://public.tableau.com/app/profile/ahmet.em
 Please visit my [Tableau profile](https://public.tableau.com/app/profile/ahmet.emir.kara/vizzes) for a sample of my Tablueau vizzes.
 | Vizzes | Description | Link |
 | :---         |     :---:      |          ---: |
-|`Process Control`   | Allows tracking of daily process control adherence, KPI's, and improvement opportunity discoveris.     | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/ProcessControlV/DailyOverview)|
+|`Process Control`   | Allows tracking of daily process control adherence, KPI's, and improvement opportunities.     | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/ProcessControlV/DailyOverview)|
 | `Inspection Device`     | Provides OEE and Quality performance for plant optical and inspection device performance.      | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/InspectionDeviceDashboard/Kickouts)      |
 
