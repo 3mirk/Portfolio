@@ -22,7 +22,13 @@ Click [here](https://github.com/3mirk) to visit my profile. 👨‍🔧
 |`git status`   | git status     | git status    |
 | `git diff`     | git diff       | git diff      |
 
-# Python :snake:
+# Python <img src="https://github.com/3mirk/Portfolio/assets/106506098/77552856-5aa2-4ded-a1a5-7ae862551f45" width="35" height="35">
+| Project | Description | Link |
+| :---         |     :---:      |          ---: |
+|`Internal Report Tool`   | Tool designed to aggregate output files to generate report with visuals and pass-fail decision.    |link |
+|`Inspection Device Discovery`   | Numpy and Seaborn discovery into over 2 million rows of optical performance.     |link |
+|`Log File to SQL ETL`   | Auto-scheduled script to feed machine log files into dedicated SQL Server.     |link |
+
 
 # Tableau <img src="https://github.com/3mirk/Portfolio/assets/106506098/23374a08-8379-4bca-bc31-8eca1b0f4028" width="35" height="35">
 Please visit my [Tableau profile](https://public.tableau.com/app/profile/ahmet.emir.kara/vizzes) to visit a sample of my Tablueau vizzes.
