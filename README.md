@@ -41,4 +41,6 @@ Please visit my [Tableau profile](https://public.tableau.com/app/profile/ahmet.e
 |`git status`   | git status     | git status    |
 | `git diff`     | git diff       | git diff      |
 
+<br></br>
+![Profile views](https://komarev.com/ghpvc/?username=3mirk&color=green)
 
