@@ -17,6 +17,15 @@ Click [here](https://github.com/3mirk) to visit my profile. 👨‍🔧
 |`Process Control Tracking`   | MS SQL server query prepped for a left join with an Informix Query.     |link |
 |`Inspection Device Reporting`   | Common Table Expression with Case Statements     |link |
 
+# Tableau <img src="https://github.com/3mirk/3mirk/assets/106506098/097f6a31-bf9f-48f0-9393-27ed6c908b73" width="47" height="47">
+Please visit my [Tableau profile](https://public.tableau.com/app/profile/ahmet.emir.kara/vizzes) for a sample of my Tablueau vizzes.
+| Vizzes | Description | Link |
+| :---         |     :---:      | :---: |
+|`Implemented Dashboards`   | Map View of my implemented dashboards.    | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/ImplementedDashboards/EmirsImplementedDashboards)|
+|`Process Control Discovery`   | Box Plots and Pass-Fail Bar Charts to identify worst performers.     | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/ProcessControlDiscoveryv2/BoxPlots)|
+|`Process Control Overview`   | Daily Adherence to Process Control standards and log view for individual records.  | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/ProcessControlOverviewv2/DailyOverview)|
+| `Inspection Discovery`     | Scatter Plots and Pareto Bar Charts to identify worst performing products and lens types.      | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/InspectionDiscovery/Discovery)      |
+| `Inspection Overview`     | Provides OEE and Quality Performance for plant optical and inspection device performance.      | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/InspectionDevicePerformance/Performance)      |
 
 # Python <img src="https://github.com/3mirk/Portfolio/assets/106506098/d7045e61-1635-4181-b23d-63a87aea175c" width="47" height="47">
 Please visit my [Kaggle profile](https://public.tableau.com/app/profile/ahmet.emir.kara/vizzes) for a sample of my data science notebooks.
@@ -25,14 +34,6 @@ Please visit my [Kaggle profile](https://public.tableau.com/app/profile/ahmet.em
 |`Internal Report Tool`   | Tool designed to aggregate output files to generate report with visuals and pass-fail decision.    |link |
 |`Inspection Device Discovery`   | Numpy and Seaborn discovery into over 2 million rows of optical performance.     |link |
 |`Log File to SQL ETL`   | Auto-scheduled script to feed machine log files into dedicated SQL Server.     |link |
-
-
-# Tableau <img src="https://github.com/3mirk/3mirk/assets/106506098/097f6a31-bf9f-48f0-9393-27ed6c908b73" width="47" height="47">
-Please visit my [Tableau profile](https://public.tableau.com/app/profile/ahmet.emir.kara/vizzes) for a sample of my Tablueau vizzes.
-| Vizzes | Description | Link |
-| :---         |     :---:      |          ---: |
-|`Process Control`   | Allows tracking of daily process control adherence, KPI's, and improvement opportunities.     | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/ProcessControlV/DailyOverview)|
-| `Inspection Device`     | Provides OEE and Quality performance for plant optical and inspection device performance.      | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/InspectionDeviceDashboard/Kickouts)      |
 
 
 # Power BI <IMG SRC="https://github.com/3mirk/Portfolio/assets/106506098/60ccfbb8-5022-451b-96d8-05b2f6f1a254" width="47" height="47">
