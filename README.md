@@ -7,8 +7,8 @@ Click [here](https://github.com/3mirk) to visit my profile. 👨‍🔧
 ## Table of Contents
 - [SQL](#sql)
 - [Tableau](#tableau)
+- [Power BI](#power-bi)
 - [Python](#python) 
-- [Power BI](#power-bi) 
 
 # SQL <img src="https://github.com/3mirk/Portfolio/assets/106506098/2d775b27-28d9-42b5-b224-25cb00daa80a" width="47" height="47">
 | Project | Description | Link |
