@@ -18,7 +18,7 @@ Click [here](https://github.com/3mirk) to visit my profile. 👨‍🔧
 |`Inspection Device Reporting`   | Common Table Expression with Case Statements     |link |
 
 # Tableau <img src="https://github.com/3mirk/3mirk/assets/106506098/097f6a31-bf9f-48f0-9393-27ed6c908b73" width="47" height="47">
-Please visit my [Tableau profile](https://public.tableau.com/app/profile/ahmet.emir.kara/vizzes) for a sample of my Tablueau vizzes.
+Please visit my [Tableau profile](https://public.tableau.com/app/profile/ahmet.emir.kara/vizzes) for a sample of my Tableau vizzes.
 | Vizzes | Description | Link |
 | :---         |     :---:      | :---: |
 |`Implemented Dashboards`   | Map View of my implemented dashboards.    | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/ImplementedDashboards/EmirsImplementedDashboards)|
