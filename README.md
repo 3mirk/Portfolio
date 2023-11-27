@@ -27,6 +27,12 @@ Please visit my [Tableau profile](https://public.tableau.com/app/profile/ahmet.e
 | `Inspection Discovery`     | Scatter Plots and Pareto Bar Charts to identify worst performing products and lens types.      | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/InspectionDiscovery/Discovery)      |
 | `Inspection Overview`     | Provides OEE and Quality Performance for plant optical and inspection device performance.      | [link](https://public.tableau.com/app/profile/ahmet.emir.kara/viz/InspectionDevicePerformance/Performance)      |
 
+# Power BI <IMG SRC="https://github.com/3mirk/Portfolio/assets/106506098/60ccfbb8-5022-451b-96d8-05b2f6f1a254" width="47" height="47">
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+|`git status`   | git status     | git status    |
+| `git diff`     | git diff       | git diff      |
+
 # Python <img src="https://github.com/3mirk/Portfolio/assets/106506098/d7045e61-1635-4181-b23d-63a87aea175c" width="47" height="47">
 Please visit my [Kaggle profile](https://public.tableau.com/app/profile/ahmet.emir.kara/vizzes) for a sample of my data science notebooks.
 | Project | Description | Link |
@@ -35,12 +41,6 @@ Please visit my [Kaggle profile](https://public.tableau.com/app/profile/ahmet.em
 |`Inspection Device Discovery`   | Numpy and Seaborn discovery into over 2 million rows of optical performance.     |link |
 |`Log File to SQL ETL`   | Auto-scheduled script to feed machine log files into dedicated SQL Server.     |link |
 
-
-# Power BI <IMG SRC="https://github.com/3mirk/Portfolio/assets/106506098/60ccfbb8-5022-451b-96d8-05b2f6f1a254" width="47" height="47">
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-|`git status`   | git status     | git status    |
-| `git diff`     | git diff       | git diff      |
 
 <br></br>
 ![Profile views](https://komarev.com/ghpvc/?username=3mirk&color=green)
