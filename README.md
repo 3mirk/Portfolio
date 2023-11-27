@@ -1,4 +1,4 @@
-# Emir's Portfolio 👾
+# Emir's Portfolio
 
 Thank you for visitng my portfolio.<br>
 I have added here a selection of my data analysis projects. <br>
