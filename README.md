@@ -37,6 +37,8 @@ Please visit my [Tableau profile](https://public.tableau.com/app/profile/ahmet.e
 Please visit my [Kaggle profile](https://public.tableau.com/app/profile/ahmet.emir.kara/vizzes) for a sample of my data science notebooks.
 | Project | Description | Link |
 | :---         |     :---:      |          ---: |
+|`DDF Extractor`   | Extract criteria and values from output files, and aggregate them into a readable cvs file using glob2 and pandas.    |link |
+|`PMF Extractor`   | Visualize optical measurement data, compiling key metrics into an insightful and structured format.  |link |
 |`Internal Report Tool`   | Tool designed to aggregate output files to generate report with visuals and pass-fail decision.    |link |
 |`Inspection Device Discovery`   | Numpy and Seaborn discovery into over 2 million rows of optical performance.     |link |
 |`Log File to SQL ETL`   | Auto-scheduled script to feed machine log files into dedicated SQL Server.     |link |
