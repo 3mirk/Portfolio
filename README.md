@@ -1,9 +1,5 @@
 # Emir's Portfolio
 
-Thank you for visitng my portfolio.<br>
-I have added here a selection of my data analysis projects. <br>
-Click [here](https://github.com/3mirk) to visit my profile.
-
 ## Table of Contents
 - [Python](#python) 
 - [Tableau](#tableau)
